@@ -137,9 +137,7 @@ By analyzing live video feeds from surveillance cameras or recorded videos, the 
 ## Results 
 
 
-
-
-
+https://github.com/shivasaisandela2002/Social-Distancing-Violation-Detection-CV-DL/blob/4f0ffcc30ff497d42da15acddcf3f230e49aafc3/output_main.mp4
 
 ## Contact 
     - Email us --> shivasaisandela002@gmail.com
